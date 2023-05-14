@@ -1,0 +1,5 @@
+service : {
+  add: (int) -> (int);
+  reset: () -> (int);
+  sub: (int) -> (int);
+}

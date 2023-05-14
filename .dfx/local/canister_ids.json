@@ -1,0 +1,20 @@
+{
+  "BootcampLocalActor": {
+    "local": "by6od-j4aaa-aaaaa-qaadq-cai"
+  },
+  "__Candid_UI": {
+    "local": "bw4dl-smaaa-aaaaa-qaacq-cai"
+  },
+  "day3": {
+    "local": "br5f7-7uaaa-aaaaa-qaaca-cai"
+  },
+  "day4": {
+    "local": "b77ix-eeaaa-aaaaa-qaada-cai"
+  },
+  "day5": {
+    "local": "avqkn-guaaa-aaaaa-qaaea-cai"
+  },
+  "simpleCalculator": {
+    "local": "asrmz-lmaaa-aaaaa-qaaeq-cai"
+  }
+}

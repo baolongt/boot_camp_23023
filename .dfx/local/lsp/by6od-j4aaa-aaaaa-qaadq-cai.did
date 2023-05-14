@@ -1,0 +1,5 @@
+type BootcampLocalActor = 
+ service {
+   getAllStudentsPrincipal: () -> (vec principal) query;
+ };
+service : () -> BootcampLocalActor
